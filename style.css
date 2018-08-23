@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* outline:1px solid red;  */
+   }
+#wrapper{
+    width: 400px;
+    margin: 0px auto;
+    }
+    #header {
+        text-align: center;
+    }
+    #body {
+        width: 200px;
+        margin: 20px 75px;
+        padding: 20px 30px;
+    }
+
+
